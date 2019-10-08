@@ -1,2 +1,2 @@
-# Firefox-Extention---Sidebar-Search-
+# Firefox-Extention - Sidebar-Search-
 Search in the sidebar using Google
