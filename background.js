@@ -15,7 +15,6 @@ function createMenuItem(engines) {
     }
 }
 
-
 browser.search.get().then(createMenuItem);
 
 console.log(createMenuItem)
