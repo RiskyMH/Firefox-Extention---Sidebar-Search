@@ -1,4 +1,4 @@
-## SidebarSidebar Search
+## Sidebar Search
 
 ## Summary 
 An add-on that helps with searching the internet. 
