@@ -1,7 +1,6 @@
 {
   "extensionName": {
-    "name": "Sidebar Search",
-    "message": "Sidebar Search. ",
+    "message": "Sidebar Search.",
     "description": "Name of the extension."
   },
 
@@ -11,6 +10,6 @@
   },
   "beta": {
     "message": " β",
-    "description": "If beta. β"
+    "description": "If βeta."
   }
 }
