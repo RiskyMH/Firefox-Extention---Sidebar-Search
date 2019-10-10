@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "边栏搜索。",
+    "description": "扩展名。"
+  },
+  "extensionDescription": {
+    "message": "该附加组件有助于搜索互联网。 该插件还有助于简化使用您喜欢的搜索引擎的搜索。 如果右键单击（左手用鼠标左键单击），则可以选择要使用的搜索引擎，然后进行搜索。 这应该有所帮助，因为您不必局限于一个搜索引擎。",
+    "description": ""
+  },
+  "beta": {
+    "message": " β",
+    "description": "如果是βeta。"
+  }
+}
